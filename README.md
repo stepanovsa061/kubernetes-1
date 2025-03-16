@@ -12,10 +12,7 @@
 ![new 1](https://github.com/user-attachments/assets/f10f491d-8c89-44de-aa40-d469f07ec7d7)
 
 
-![alt text](https://github.com/stepanovsa061/10-monitoring-04-elk/blob/main/1%20docker.PNG)
+![new 2](https://github.com/user-attachments/assets/90b4b3e8-3f19-4827-b34b-e0bfa92de76f)
 
-![alt text](https://github.com/stepanovsa061/10-monitoring-04-elk/blob/main/1%20docker.PNG)
 
-![alt text](https://github.com/stepanovsa061/10-monitoring-04-elk/blob/main/1%20docker.PNG)
-
-![alt text](https://github.com/stepanovsa061/10-monitoring-04-elk/blob/main/1%20docker.PNG)
+![new kub](https://github.com/user-attachments/assets/949a3648-990b-46a7-b10c-d8953c5c9be3)
