@@ -9,6 +9,9 @@
 Настроить локально подключение к кластеру.
 Подключиться к дашборду с помощью port-forward.
 
+![new 1](https://github.com/user-attachments/assets/f10f491d-8c89-44de-aa40-d469f07ec7d7)
+
+
 ![alt text](https://github.com/stepanovsa061/10-monitoring-04-elk/blob/main/1%20docker.PNG)
 
 ![alt text](https://github.com/stepanovsa061/10-monitoring-04-elk/blob/main/1%20docker.PNG)
