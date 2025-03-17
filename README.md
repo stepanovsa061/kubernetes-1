@@ -16,4 +16,6 @@
 
 ![dashboard](https://github.com/user-attachments/assets/0c2cf720-cd01-4a34-9c3e-6f0a14bb2495)
 
+![new get nodes](https://github.com/user-attachments/assets/446362cb-d5e5-4cca-a59b-533db3d1f15c)
+
 ![new kub](https://github.com/user-attachments/assets/949a3648-990b-46a7-b10c-d8953c5c9be3)
